@@ -1,7 +1,7 @@
 # D3Bench: Benchmarking Open Source Tools for Dataset Drift Detection
 =====================================================================
 
-This repository contains the source code of the paper titled "Open-Source Drift Detection Tools in Action: Insights from Two Use Cases". The aim of D3Bench is to compare the most common tools for detecting dataset shifts. Through this comparison, deficiencies and limitations of the tools can be identified, and future research directions can be explored. Additionally, it can be determined which tools are mature enough for industrial use. The comparison criteria are as follows:
+This repository contains the source code of the paper titled <a href=https://arxiv.org/abs/2404.18673>Open-Source Drift Detection Tools in Action: Insights from Two Use Cases</a>. The aim of D3Bench is to compare the most common tools for detecting dataset shifts. Through this comparison, deficiencies and limitations of the tools can be identified, and future research directions can be explored. Additionally, it can be determined which tools are mature enough for industrial use. The comparison criteria are as follows:
 
 * **Functional Suitability**: The tool should reliably detect shifts.
 * **Integration Capabilities**: The tool should be integrable into the MLOps pipeline, preferably with Grafana and MLflow.
