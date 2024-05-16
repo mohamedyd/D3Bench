@@ -1,0 +1,20 @@
+time,building,tool,showReport,test,runtime_avg,runtime_max,cpu_runtime_avg,cpu_runtime_max,ram_avg,ram_max,run_on_vm,target_drift_score,target_is_drifted,temp_outside_drift_score,temp_outside_is_drifted,all_col_drift_score, all_col_is_drifted
+2023-08-29 15:47:14,1,Evidently,True,Anderson-Darling,0,0,0,0,0,0,False,0.001,True,0.001,True
+2023-08-29 15:47:14,1,Evidently,True,Cramer-von-Mises,0,0,0,0,0,0,False,6.433253929571947e-09,True,1.9876422729936394e-10,True
+2023-08-29 15:47:14,1,Evidently,True,Energy-Distance,0,0,0,0,0,0,False,0.06317084987955635,False,0.42560338086667265,True
+2023-08-29 15:47:14,1,Evidently,True,Epps-Singleton,0,0,0,0,0,0,False,2.828677920415954e-223,True,4.226452382441188e-234,True
+2023-08-29 15:47:14,1,Evidently,True,Hellinger-Distance,0,0,0,0,0,0,False,0.15451677356538954,True,0.1568213961242696,True
+2023-08-29 15:47:14,1,Evidently,True,J-S Distance,0,0,0,0,0,0,False,0.15124083259963167,True,0.15554600307252486,True
+2023-08-29 15:47:14,1,Evidently,True,K-L Divergence,0,0,0,0,0,0,False,0.0713617221362593,False,0.08197226709480412,False
+2023-08-29 15:47:14,1,Evidently,True,K-S Test,0,0,0,0,0,0,False,2.5105096774802415e-35,True,3.373095360248143e-48,True
+2023-08-29 15:47:14,1,Evidently,True,Mann-Whitney U-Rank Test,0,0,0,0,0,0,False,1.2643770812496167e-16,True,0.9999999960077481,False
+2023-08-29 15:47:14,1,Evidently,True,PSI,0,0,0,0,0,0,False,0.2443425359142643,True,0.2294531264978479,True
+2023-08-29 15:47:14,1,Evidently,True,T-Test,0,0,0,0,0,0,False,8.845207636604302e-50,True,2.602534830593982e-16,True
+2023-08-29 15:47:14,1,Evidently,True,Wasserstein Distanz,0,0,0,0,0,0,False,0.26108245954359244,True,0.19278957954993306,True
+2023-08-29 18:21:10,1,NannyML,True,Hellinger-Distance,0,0,0,0,0,0,False,0.47908150491566026,100.0 % drifted,0.44349085132117916,100.0 % drifted
+2023-08-29 18:21:10,1,NannyML,True,J-S Distance,0,0,0,0,0,0,False,0.5132864650900242,100.0 % drifted,0.4825029059983241,100.0 % drifted
+2023-08-29 18:21:10,1,NannyML,True,K-S Test,0,0,0,0,0,0,False,0.4417142313546424,0.0 % drifted,0.41609682610973875,0.0 % drifted
+2023-08-29 18:21:10,1,NannyML,True,Wasserstein Distance,0,0,0,0,0,0,False,0.13033733032662126,20.0 % drifted,7.319172561568979,0.0 % drifted
+2023-08-29 23:12:12,1,AlibiDetect,False,Cramer-von-Mises,0,0,0,0,0,0,False,6.433253929571947e-09,1.0,1.9876422729936394e-10,1.0,,
+2023-08-29 23:12:12,1,AlibiDetect,False,K-S Test,0,0,0,0,0,0,False,2.510509541344335e-35,1.0,0.0,1.0,,
+2023-08-29 23:12:12,1,AlibiDetect,False,Spot-the-diff,0,0,0,0,0,0,False,,,,,0.07254425867948146,0.0

@@ -1,0 +1,1 @@
+In this directory, we store all porject-related artefacts, e.g., detections, models, etc.

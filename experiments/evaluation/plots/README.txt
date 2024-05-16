@@ -1,0 +1,1 @@
+In this directory, we store all generated plots.

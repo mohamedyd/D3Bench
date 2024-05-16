@@ -1,0 +1,9 @@
+name: nasa
+error_type:
+  outlier
+  rule_violation
+labels: sound_pressure_level
+ml_task:
+  regression
+dboost_configs:
+fd_constraints:

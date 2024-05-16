@@ -1,0 +1,5 @@
+{
+  "learning_rate": 0.001,
+  "n_hidden": 1,
+  "n_neurons": 30
+}
